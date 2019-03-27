@@ -1,0 +1,31 @@
+---
+title: ''
+subtitle: ''
+author: ''
+date: 'Last update: `r Sys.time()`'
+output: github_document
+---
+
+```{r echo=FALSE}
+library(knitr)
+read_chunk(here::here("scripts", "analysis.R"))
+```
+
+
+
+<!-- INTRODUCTION -->
+```{r, child='./intro.Rmd'}
+```
+
+<!-- METHOD -->
+```{r, child='./method.Rmd'}
+```
+
+<!-- RESULTS -->
+```{r, child='./results.Rmd'}
+```
+
+<!-- DISCUSSION -->
+```{r, child='./discussion.Rmd'}
+```
+

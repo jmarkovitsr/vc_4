@@ -1,0 +1,26 @@
+---
+title: 'manuscript'
+subtitle: ''
+author: ''
+date: 'Rutgers University </br> `r Sys.Date()`'
+output: 
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["hygge", "rutgers", "rutgers-fonts"]
+    nature:
+      beforeInit: ["https://www.jvcasillas.com/ru_xaringan/js/ru_xaringan.js"]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+---
+
+# Slide
+
+```{r echo=FALSE}
+library(knitr)
+read_chunk(here::here("scripts", "analysis.R"))
+```
+
+```{r, 'load', echo=FALSE, fig.retina=2}
+```
