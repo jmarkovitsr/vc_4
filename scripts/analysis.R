@@ -1,6 +1,8 @@
-## @knitr load
+library(tidyverse)
+library(here)
 
-# Load library
-library(lingStuff)
+# Load data
 
-biVarPlot(cars, dist, speed)
+
+# Create plot, store as 'plot'
+

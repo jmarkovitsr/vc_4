@@ -1,5 +1,5 @@
 ---
-title: 'manuscript'
+title: ''
 subtitle: ''
 author: ''
 date: 'Rutgers University </br> `r Sys.Date()`'
@@ -15,12 +15,12 @@ output:
       ratio: "16:9"
 ---
 
-# Slide
+# Plot here
 
-```{r echo=FALSE}
+```{r echo=FALSE, message=F, warning=F}
 library(knitr)
-read_chunk(here::here("scripts", "analysis.R"))
+source(here::here("scripts", "analysis.R"))
 ```
 
-```{r, 'load', echo=FALSE, fig.retina=2}
-```
+
+
