@@ -1,3 +1,20 @@
 # Method
 
+1. Participants 
+  a. How many participants will participate in the study 
+  b. Who will participate in the study
+  c. Where are they from
+  d. Age of participants 
+
+2. Materials 
+  a. What are the materials used
+  b. how were they developed
+  c. Are they your own materials
+
+3. Design
+  a. describe design of the study 
+  b. what variables will be measured
+ 
+4. Procedure 
+  a. How was the experiment conducted in order; step by step
 
