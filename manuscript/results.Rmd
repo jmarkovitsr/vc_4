@@ -3,6 +3,6 @@
 ```{r echo=FALSE, warning=F, message=F}
 library(knitr)
 source(here::here("scripts", "analysis.R"))
+p1
 ```
-
 
