@@ -1,8 +1,16 @@
 # Discussion
 
+- Re-state the research problem.  
+- Answer the research questions.   
+- Describe the patterns and relationships shown in the findings. (from general to specific)  
+- Link findings to literature and theory.  
+- Discuss the significance of findings. 
+
 
 # Conclusion
 
-
+- Highlight key findings.
+- Summarize your thoughts on the significance and the impact of the study.
+- Identify how a gap in the literature has been addressed. 
 
 
