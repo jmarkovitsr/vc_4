@@ -24,3 +24,6 @@ Branching out
 - Submit pull request
 - **Cristina**: wait for everybody to finish, create branch `render_all`, open `manuscript > README.Rmd`, fill out yaml front matter and knit document, commit, push and submit pull request
 - Once all branches have been incorporated into master update your local copy of the repo (pull in all changes)
+
+
+
