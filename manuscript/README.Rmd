@@ -1,7 +1,7 @@
 ---
-title: ''
-subtitle: ''
-author: ''
+title: 'Título bonito'
+subtitle: 'subítulo aquí'
+author: 'Superwoman'
 date: 'Last update: `r Sys.time()`'
 output: github_document
 ---
